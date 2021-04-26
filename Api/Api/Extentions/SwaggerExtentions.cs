@@ -4,7 +4,7 @@ using Microsoft.OpenApi.Models;
 using System.Collections.Generic;
 using System.IO;
 
-namespace Api.Extentions
+namespace SoulFood.Webhost.Extentions
 {
     internal static class SwaggerExtentions
     {

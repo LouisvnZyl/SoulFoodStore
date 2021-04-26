@@ -1,6 +1,6 @@
 ﻿using Microsoft.Extensions.Hosting;
 
-namespace Api.Extentions
+namespace SoulFood.Webhost.Extentions
 {
     /// <summary>
     /// Extension methods for Microsoft.Extensions.Hosting.IHostEnvironment.
